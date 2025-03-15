@@ -3,7 +3,7 @@
 
 ## 📚 Informações 
 
-Este jogo é resultado de uma atividade de um curso promovido pela Alura. O objetivo do usuário é descobrir qual é o número secreto de 1 a 20, com o menor números de chutes.
+Este jogo é resultado de uma atividade de um curso promovido pela Alura. O objetivo do usuário é descobrir qual é o número secreto de 1 a 10, com o menor números de chutes.
 
 
 # :hammer: Importância do projeto
